@@ -55,7 +55,7 @@ pytest-rerunfailures==4.1
 pytest-xdist==1.22.3
 python-dateutil==2.8.1
 pytz==2019.3
-PyYAML==3.13
+PyYAML==5.1
 redis==3.4.1
 requests==2.19.1
 requests-futures==0.9.7
