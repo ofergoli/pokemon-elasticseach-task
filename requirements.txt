@@ -24,7 +24,7 @@ future==0.18.2
 glob2==0.7
 idna==2.7
 itsdangerous==1.1.0
-Jinja2==2.10.3
+Jinja2==2.11.3
 jmespath==0.9.4
 jsonschema==3.0.0
 Mako==1.1.0
